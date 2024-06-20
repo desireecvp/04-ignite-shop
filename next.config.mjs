@@ -6,11 +6,11 @@ const nextConfig = {
     domains: ["files.stripe.com"],
   },
 
-  experimental: {
-    images: {
-      allowFutureImage: true,
-    },
-  },
+  // experimental: {
+  //   images: {
+  //     allowFutureImage: true,
+  //   },
+  // },
 };
 
 export default nextConfig;
