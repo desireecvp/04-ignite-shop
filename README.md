@@ -4,6 +4,8 @@
 
 <h3 align="center">Online shop of T-shirts made with NextJS + Stripe.</h3>
 
+- ACCESS ONLINE PROJECT [HERE](https://04-ignite-shop-nw91.vercel.app/)
+
 ---
 
 <h2>Preview 🎥</h2>
