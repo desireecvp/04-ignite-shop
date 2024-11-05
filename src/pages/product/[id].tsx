@@ -77,7 +77,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
   // Buscar produtos mais vendidos / mais acessados
 
   return {
-    paths: [{ params: { id: "product.id%7D" } }],
+    paths: [],
     fallback: "blocking",
   };
 };
